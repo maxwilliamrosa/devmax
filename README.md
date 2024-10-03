@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/maxwillianrosa/)
 
-![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=devmax&show_icons=true&theme=dracula)
+![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=maxwilliamrosa&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia
 <div style= "display: inline_block"><br/>
